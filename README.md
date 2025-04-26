@@ -1,4 +1,4 @@
-# Excel Books Inventory Management Project
+# 📚 Excel Books Inventory Management Project
 
 Welcome to the **Excel Books Inventory Management Project and Analytics Project** repository!
 A dynamic Excel dashboard to monitor book inventory, track reorder needs, and analyze inventory value, enabling timely restocking and inventory management decisions.
