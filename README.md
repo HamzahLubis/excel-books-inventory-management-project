@@ -1,3 +1,5 @@
+![Excel Dashboard Project](https://img.shields.io/badge/Project-Excel%20Dashboard-blue)
+
 # 📚 Excel Books Inventory Management Project
 
 Welcome to the **Excel Books Inventory Management Project** repository!
