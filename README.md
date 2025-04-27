@@ -1,9 +1,10 @@
-![Excel Dashboard Project](https://img.shields.io/badge/Project-Excel%20Dashboard-blue)
+![Excel Project](https://img.shields.io/badge/Project-Excel%20Dashboard-blue)
+![Visualization](https://img.shields.io/badge/Visualization-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 # 📚 Excel Books Inventory Management Project
-
 Welcome to the **Excel Books Inventory Management Project** repository!
-A dynamic Excel dashboard to monitor book inventory, track reorder needs, and analyze inventory value, enabling timely restocking and inventory management decisions.
+<br>A dynamic Excel dashboard to monitor book inventory, track reorder needs, and analyze inventory value, enabling timely restocking and inventory management decisions.
 
 ---
 ## 📖 Project Overview
@@ -35,7 +36,8 @@ It covers data preparation, cleaning, analytics, and visualization to support bu
 
 ---
 ## 📈 Dashboard Preview
-![Dashboard](https://github.com/user-attachments/assets/d600640f-ed3e-4e93-a7bb-4b0eef3ecc70)
+![dashboard-demo](https://github.com/user-attachments/assets/2303406f-ecfd-4143-9fc5-04e2de85d2aa)
+
 
 ---
 ## 🧬 Tools Used
@@ -62,6 +64,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **Muhammad Hamzah Syafiq Lubis**. I’m a passionate Industrial Engineer specializing in process improvement!
 
-Let's stay in touch! Feel free to connect with me on LinkedIn:
+Let's stay in touch! Feel free to connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mhamzahsyafiqlubis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhamzahsyafiqlubis/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.hamzah.syafiq@gmail.com)
