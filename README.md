@@ -45,7 +45,7 @@ It covers data preparation, cleaning, analytics, and visualization to support bu
 This dashboard helps stakeholders monitor inventory health efficiently and supports better stock management decisions through a simple, interactive interface.
 
 ---
-## 🔢 Potential Future Improvements (Optional Section)
+## 🔢 Potential Future Improvements
  - Add automated alerts for low stock levels using VBA.
  - Integrate historical sales data for predictive stock management.
  - Expand dashboard to cover multiple warehouses or branches.
